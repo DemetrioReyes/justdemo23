@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Demetrio Reyes Martinez
+# 👋 Hi! I'm Demetrio Reyes Martinez
 
 ## Full Stack Developer
 
-Desarrollador con más de 8 años de experiencia en diseño y automatización de sistemas utilizando Python, Flask, Selenium, MySQL y JavaScript. Especializado en optimización de procesos, análisis de datos y colaboración en equipo para mejorar la productividad y reducir costos operativos. Formado en desarrollo web y hacking ético, con nivel intermedio de inglés.
+Developer with over 8 years of experience in system design and automation using Python, Flask, Selenium, MySQL, and JavaScript. Specialized in process optimization, data analysis, and teamwork collaboration to enhance productivity and reduce operational costs. Trained in web development and ethical hacking, with an intermediate level of English.
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Skills
 
 ### Backend Development:
 - Python
@@ -18,43 +18,43 @@ Desarrollador con más de 8 años de experiencia en diseño y automatización de
 - Playwright
 - Asterisk
 
-### Herramientas y Prácticas:
+### Tools and Practices:
 - Git
 - Docker
-- Automatización
-- Análisis de Datos
-- Hacking Ético
+- Automation
+- Data Analysis
+- Ethical Hacking
 
-### Habilidades Blandas:
-- Resiliencia
-- Pensamiento crítico
-- Liderazgo
-- Motivación
-- Habilidades sociales
+### Soft Skills:
+- Resilience
+- Critical Thinking
+- Leadership
+- Motivation
+- Social Skills
 
 ---
 
-## 📚 Educación
-- Desarrollador Full Stack Junior – Alterna Academy (2024)
+## 📚 Education
+- Full Stack Junior Developer – Alterna Academy (2024)
 - NodeJS – (2023)
 - Python – (2017)
-- Desarrollo Web – (2021)
+- Web Development – (2021)
 - Asterisk – (2018)
-- Hacking Ético – (2018)
+- Ethical Hacking – (2018)
 - Metasploit Hacking – (2018)
 - Pentesting – (2017)
 - Sqlmap – (2017)
 
 ---
 
-## 🌎 Idiomas
-- Español (Nativo)
-- Inglés (Intermedio)
+## 🌎 Languages
+- Spanish (Native)
+- English (Intermediate)
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 - **Email:** rdemetrio72@gmail.com
-- **Teléfono:** +1 809 405 9011
-- **Ubicación:** Santo Domingo, República Dominicana
-- **LinkedIn:** [Perfil de LinkedIn](#)
+- **Phone:** +1 809 405 9011
+- **Location:** Santo Domingo, Dominican Republic
+- **LinkedIn:** [LinkedIn Profile](#)
