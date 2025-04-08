@@ -1,8 +1,12 @@
 # 👋 Hi! I'm Demetrio Reyes Martinez
 
-## Full Stack Developer
+## Full Stack Developer | Python | NodeJs | Back-end | Front-End | ML/DL
 
-Developer with over 8 years of experience in system design and automation using Python, Flask, Selenium, MySQL, and JavaScript. Specialized in process optimization, data analysis, and teamwork collaboration to enhance productivity and reduce operational costs. Trained in web development and ethical hacking, with an intermediate level of English.
+Software Engineer, AI, and Data Analytics professional with over 8 years of experience. Advanced
+knowledge in developing intelligent systems, web scraping, process automation, and building
+pipelines for ML/DL. Notable experience in Python, REST APIs, Selenium, Requests, Node.js, and PHP.
+Advanced expertise in SQL/NoSQL databases, cloud deployment, and process optimization through
+technology and data analysis. Skilled in generating reports and management indicators.
 
 ---
 
@@ -44,6 +48,8 @@ Developer with over 8 years of experience in system design and automation using 
 - Metasploit Hacking – (2018)
 - Pentesting – (2017)
 - Sqlmap – (2017)
+- Machine Learning – udemy – Domestika (2021)
+- Data Science – udemy Domestika (2021)
 
 ---
 
